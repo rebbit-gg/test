@@ -5,5 +5,7 @@ public class aaa {
 		System.out.println("hello");
 		String aString = "I LOVE YOU";
 		System.out.println(aString);
+		int a = 10;
+		System.out.println("aaaaaaaaaaa");
 	}
 }
